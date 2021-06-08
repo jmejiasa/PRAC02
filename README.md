@@ -23,7 +23,7 @@ This activity was individually performed by José A. Mejía Sánchez.
 ### Released Under CC0: Public Domain License, related to public food  information. 
 
 ### View of data structure, implemented as table (row vs column):
-![dataset structure](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+(https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 The columns describe chemistry characteristics from a group of wines, includes a target column named quality.
 
 
@@ -50,6 +50,6 @@ Esta actividad fue desarrollada individualmente por José A. Mejía Sánchez
 ### Publicado bajo CC0: Licencia de dominio público, relacionada con información publica de alimentos.
 
 ### Visualización de la estructura de datos, implementada como tabla (fila vs columna):
-![dataset structure](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+(https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
 Las columas describen caracteristicas quimicas de un conjunto de vinos, con relación a una variable objetivo denominada Calidad.
